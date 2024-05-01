@@ -1,0 +1,71 @@
+{
+    "artists": [
+      {
+        "id": "1",
+        "name": "Kendrick Lamar",
+        "imgSrc": "https://www.udiscovermusic.com/wp-content/uploads/2020/04/Kendrick-Lamar-Damn-album-cover-820-820x820.jpg",
+        "genre": "Rap",
+        "country": "USA",
+        "age": 36,
+        "info": "Kendrick Lamar Duckworth is an American rapper and songwriter. Often regarded as one of the greatest rappers of all time, he is the only musician outside of the classical and jazz genres to be awarded the Pulitzer Prize for Music.",
+        "isVerified": true,
+        "songs": []
+      },
+      {
+        "id": "2",
+        "name": "Beyoncé",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/2/27/Beyonce-Formation-WORLDTOUR-300.jpg",
+        "genre": "R&B",
+        "country": "USA",
+        "age": 41,
+        "info": "Beyoncé Giselle Knowles-Carter is an American singer, songwriter, and actress. Born and raised in Houston, Texas, Beyoncé performed in various singing and dancing competitions as a child.",
+        "isVerified": true,
+        "songs": []
+      },
+      {
+        "id": "3",
+        "name": "Ed Sheeran",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ed_Sheeran_2013.jpg/220px-Ed_Sheeran_2013.jpg",
+        "genre": "Pop",
+        "country": "UK",
+        "age": 32,
+        "info": "Edward Christopher Sheeran, MBE is an English singer, songwriter, musician, record producer, and actor. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project.",
+        "isVerified": false,
+        "songs": []
+      },
+      {
+        "id": "4",
+        "name": "The Weeknd",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Weeknd_at_the_BBT_Center_in_Sunrise%2C_Florida_on_August_26%2C_2017_%28cropped%29.jpg/220px-The_Weeknd_at_the_BBT_Center_in_Sunrise%2C_Florida_on_August_26%2C_2017_%28cropped%29.jpg",
+        "genre": "R&B",
+        "country": "Canada",
+        "age": 34,
+        "info": "Abel Makkonen Tesfaye, known professionally as The Weeknd, is a Canadian singer, songwriter, and record producer. Noted for his versatile singing style, Tesfaye is often cited as an influence to contemporary music, as well as by other artists.",
+        "isVerified": true,
+        "songs": []
+      },
+      {
+        "id": "5",
+        "name": "Taylor Swift",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Taylor_Swift_2020.png/220px-Taylor_Swift_2020.png",
+        "genre": "Pop",
+        "country": "USA",
+        "age": 34,
+        "info": "Taylor Alison Swift is an American singer-songwriter. Her narrative songwriting, which often centers around her personal life, has received widespread media coverage and critical praise.",
+        "isVerified": false,
+        "songs": []
+      },
+      {
+        "id": "6",
+        "name": "Drake",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Drake_at_The_Carter_Effect_2017.jpg/220px-Drake_at_The_Carter_Effect_2017.jpg",
+        "genre": "Rap",
+        "country": "Canada",
+        "age": 35,
+        "info": "Aubrey Drake Graham is a Canadian rapper, singer, and songwriter. Drake gained recognition as an actor on the teen drama television series Degrassi: The Next Generation in the early 2000s.",
+        "isVerified": true,
+        "songs": []
+      }
+    ]
+  }
+  
