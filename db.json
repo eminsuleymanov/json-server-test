@@ -14,7 +14,7 @@
       {
         "id": "2",
         "name": "Beyoncé",
-        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/2/27/Beyonce-Formation-WORLDTOUR-300.jpg",
+        "imgSrc": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2022-03/220323-beyonce-ew-510p-86a49a.jpg",
         "genre": "R&B",
         "country": "USA",
         "age": 41,
@@ -25,7 +25,7 @@
       {
         "id": "3",
         "name": "Ed Sheeran",
-        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ed_Sheeran_2013.jpg/220px-Ed_Sheeran_2013.jpg",
+        "imgSrc": "https://m.media-amazon.com/images/M/MV5BODI4NTkxOTkxMV5BMl5BanBnXkFtZTgwMzE0MDEzMTE@._V1_FMjpg_UX1000_.jpg",
         "genre": "Pop",
         "country": "UK",
         "age": 32,
@@ -36,7 +36,7 @@
       {
         "id": "4",
         "name": "The Weeknd",
-        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Weeknd_at_the_BBT_Center_in_Sunrise%2C_Florida_on_August_26%2C_2017_%28cropped%29.jpg/220px-The_Weeknd_at_the_BBT_Center_in_Sunrise%2C_Florida_on_August_26%2C_2017_%28cropped%29.jpg",
+        "imgSrc": "https://yt3.googleusercontent.com/QiI-c4cFyRPD0qVwTQooC3dlgJqHA_t6CpEAv818om-mqL9bqNDL4L_qXQVXx_eY76D_7cLD=s900-c-k-c0x00ffffff-no-rj",
         "genre": "R&B",
         "country": "Canada",
         "age": 34,
@@ -58,7 +58,7 @@
       {
         "id": "6",
         "name": "Drake",
-        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Drake_at_The_Carter_Effect_2017.jpg/220px-Drake_at_The_Carter_Effect_2017.jpg",
+        "imgSrc": "https://cdn.britannica.com/37/231937-050-9228ECA1/Drake-rapper-2019.jpg?w=400&h=300&c=crop",
         "genre": "Rap",
         "country": "Canada",
         "age": 35,
